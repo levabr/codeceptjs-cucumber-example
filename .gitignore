@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+output/
+.DS_Store
+*.log
+.npm
+*.tgz

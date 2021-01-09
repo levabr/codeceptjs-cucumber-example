@@ -1,0 +1,16 @@
+{
+  "name": "codeceptjs-cucumber-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.0.4",
+    "playwright": "^1.7.1"
+  }
+}
