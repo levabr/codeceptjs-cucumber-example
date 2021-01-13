@@ -12,3 +12,8 @@ Feature: Google Text Search
     When a keyword 'издательство миф' is entered into input field
     Then at least one matching result is shown
     And the first result should contain 'www.mann-ivanov-ferber.ru'
+
+  Scenario: Demonstrate failing test
+    When a keyword 'marmoset' is entered into input field
+    Then at least one matching result is shown
+    And the first result should contain 'WRONG STRING'
