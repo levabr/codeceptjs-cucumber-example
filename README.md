@@ -3,7 +3,7 @@ CodeceptJS example: Cucumber + Allure
 
 This is a sample project demonstrating how to use CodeceptJS with Cucumber and Allure.
 
-### How to run tests
+### Run tests
 
 To run tests in chromium browser, type from command line:
 
@@ -11,9 +11,13 @@ To run tests in chromium browser, type from command line:
 npx codeceptjs run
 ```
 
-### How to see a report
+### See a report
 
 Run the following command:
 ```
 allure serve output
 ```
+
+### Watch a video demonstaration
+
+https://youtu.be/WmlFyX06K8Q
